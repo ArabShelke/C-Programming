@@ -13,6 +13,7 @@ This repository contains my C programming practice codes.
 
 ## Goal:
 To build strong programming fundamentals for AI/ML and software development.
+Daily practice repository to master C programming fundamentals.
 
 ## Tools Used:
 - VS Code
