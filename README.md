@@ -2,11 +2,14 @@
 
 This repository contains my C programming practice codes.
 
-## 📚 Topics Covered:
+## Topics Covered:
 - Basics (Input/Output, Data Types)
 - Control Statements (if-else, switch)
 - Loops
 - Functions
+- Type Casting
+- Operators
+- Jump Statements (break, continue, goto)
 
 ## Goal:
 To build strong programming fundamentals for AI/ML and software development.
