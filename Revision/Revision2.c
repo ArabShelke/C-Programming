@@ -30,10 +30,58 @@
 // }/
 
 
-#include <windows.h>
+// #include <windows.h>
 
-int main()
-{
-    Beep(2000, 4000);
-    return 0;
-}
+// int main()
+// {
+//     Beep(2000, 4000);
+//     return 0;
+// }
+
+
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//     int a, b;
+//     char op;
+    
+//     printf("enter first number : ");
+//     scanf("%d", &a);
+
+//     printf("enter opertor(+, -, *, /): ");
+//     scanf(" %c", &op);
+    
+//     printf("enter second number : ");
+//     scanf("%d", &b);
+
+//     if(op == '+')
+//     {
+//         printf("answer = %d", a + b);
+//     }
+//     else if(op == '-')
+//     {
+//         printf("answer = %d", a - b);
+//     }
+//     else if(op == '*')
+//     {
+//         printf("answer = %d", a * b);
+//     }
+//     else if(op == '/')
+//     {
+//         if (b != 0)
+        
+//             printf("answer = %d", a / b);
+//             else
+            
+//                 printf(" %d cannot divide by zero", a);
+            
+        
+        
+//     }
+//     else
+//     {
+//         printf("invalid operator");
+//     }
+    
+//     return 0;
+// }
