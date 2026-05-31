@@ -1,14 +1,14 @@
 // Accessing an array element
 
-/*#include<stdio.h>
-int main(int argc, char const *argv[])
-{
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
     
-    int arr[] = {1, 3, 6, 8};
-    printf("%d", arr[3]);
-    return 0;
-}
-*/
+//     int arr[] = {1, 3, 6, 8};
+//     printf("%d", arr[3]);
+//     return 0;
+// }
+
 
 
 
