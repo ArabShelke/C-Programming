@@ -11,7 +11,7 @@
 
 
 
-//print the address of a
+//print the address of a using pointer
 // #include<stdio.h>
 // int main(int argc, char const *argv[])
 // {
@@ -19,7 +19,17 @@
 //     int *ptra = &a;
 //     printf("the address of a is %x", ptra);
 //     printf("the address of a is %x", &a);
-//     printf("address of ptr %p", &ptra);
+//     pri antf("address of ptr %p", &ptra);
 
 //     return 0;
 // }
+
+
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//    int = 100;
+//    printf("the value of the variable a stored at the address %u is %d", &a, a);
+//    return 0;
+// }
+
