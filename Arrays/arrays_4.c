@@ -1,6 +1,5 @@
 // Count Frequency of an Element
 /*#include <stdio.h>
-
 int main() {
     int arr[5] = {2, 3, 2, 5, 2};
     int key = 2, count = 0;
@@ -16,9 +15,9 @@ int main() {
     return 0;
 } */
 
+
 //Print Elements in Reverse Order
 /*#include <stdio.h>
-
 int main() {
     int arr[5] = {1, 2, 3, 4, 5};
 
@@ -32,7 +31,6 @@ int main() {
 
 //Sum of Even Numbers in Array
 /*#include <stdio.h>
-
 int main() {
     int arr[5] = {1, 2, 3, 4, 5};
     int sum = 0;
