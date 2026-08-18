@@ -1,4 +1,5 @@
 //TYPECASTING\\
+//typecasting\\
 
 /*#include<stdio.h>
 
