@@ -1,3 +1,5 @@
+//datatype constant
+
 /*#include <stdio.h>
 
 int main()
